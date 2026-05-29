@@ -4,7 +4,7 @@ Vatsalya is an AI-powered healthcare and emergency assistance platform designed 
 
 ## Live Demo
 
-https://your-netlify-link.netlify.app
+https://teal-rugelach-a777f3.netlify.app/
 
 ## Features
 
