@@ -4,7 +4,14 @@ Vatsalya is an AI-powered healthcare and emergency assistance platform designed 
 
 ## Live Demo
 
+Frontend:
 https://teal-rugelach-a777f3.netlify.app/
+
+Backend API:
+https://vatsalya-ai-healthcare-platform.onrender.com
+
+Hospitals API:
+https://vatsalya-ai-healthcare-platform.onrender.com/api/hospitals
 
 ## Features
 
@@ -87,8 +94,6 @@ http://localhost:5000/api/hospitals
 ## Author
 
 **Vanshika Mishra**  
-B.Tech CSE (IoT)  
-Pranveer Singh Institute of Technology (PSIT)
 
 ## Project Status
 
