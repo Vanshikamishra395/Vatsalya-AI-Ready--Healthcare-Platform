@@ -155,9 +155,13 @@ http://localhost:5000/api/hospitals
 Add screenshots of:
 
 * Home Page
+  <img width="852" height="856" alt="image" src="https://github.com/user-attachments/assets/abc4d582-5f9b-4b34-85d0-d5bddc37d287" />
+
 * Hospital Recommendation Page
+  <img width="705" height="810" alt="image" src="https://github.com/user-attachments/assets/0ffa23a2-ae2d-41c8-a78f-d208ac57e605" />
+
 * Emergency Assistance Section
-* API Response Example
+  <img width="882" height="786" alt="image" src="https://github.com/user-attachments/assets/a4bf6773-7bca-4d2f-8c62-193d0ad3bf77" />
 
 ---
 
