@@ -86,22 +86,17 @@ https://vatsalya-ai-healthcare-platform.onrender.com/api/hospitals
 ---
 
 ## 🏗️ System Architecture
+## 🏗️ System Architecture
 
-┌─────────────────────┐
-│  Frontend (Netlify) │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Backend (Node.js +  │
-│ Express on Render)  │
-└──────────┬──────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ MySQL Database      │
-│ (Aiven Cloud)       │
-└─────────────────────┘
+```mermaid
+flowchart TD
+    A[Frontend - Netlify]
+    B[Backend - Node.js + Express.js on Render]
+    C[MySQL Database - Aiven Cloud]
+
+    A --> B
+    B --> C
+```
 ---
 
 ## 📂 Project Structure
