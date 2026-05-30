@@ -152,8 +152,6 @@ http://localhost:5000/api/hospitals
 
 ## 📸 Screenshots
 
-Add screenshots of:
-
 * Home Page
   <img width="852" height="856" alt="image" src="https://github.com/user-attachments/assets/abc4d582-5f9b-4b34-85d0-d5bddc37d287" />
 
