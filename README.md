@@ -86,7 +86,6 @@ https://vatsalya-ai-healthcare-platform.onrender.com/api/hospitals
 ---
 
 ## 🏗️ System Architecture
-## 🏗️ System Architecture
 
 ```mermaid
 flowchart TD
