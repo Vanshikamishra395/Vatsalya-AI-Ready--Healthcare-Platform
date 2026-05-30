@@ -1,4 +1,10 @@
-# 🏥 Vatsalya – AI Powered Healthcare & Emergency Assistance Platform
+# 🏥 Vatsalya – 🤖 AI-ready healthcare assistance platform
+
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-API-black)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 
 Vatsalya is a cloud-hosted healthcare platform designed to provide instant medical guidance, hospital recommendations, emergency support, and healthcare accessibility information through an intelligent and user-friendly interface.
 
@@ -37,6 +43,17 @@ https://vatsalya-ai-healthcare-platform.onrender.com/api/hospitals
 
 ---
 
+## 🎯 Project Highlights
+
+- Developed a full-stack healthcare assistance platform with cloud deployment.
+- Built REST APIs using Node.js and Express.js for healthcare data retrieval.
+- Integrated MySQL cloud database for hospital information management.
+- Implemented responsive UI with healthcare accessibility features.
+- Deployed frontend and backend using modern cloud hosting services.
+
+---
+
+
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -70,16 +87,21 @@ https://vatsalya-ai-healthcare-platform.onrender.com/api/hospitals
 
 ## 🏗️ System Architecture
 
-Frontend (Netlify)
-
-⬇
-
-Backend API (Render)
-
-⬇
-
-MySQL Database (Aiven Cloud)
-
+┌─────────────────────┐
+│  Frontend (Netlify) │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Backend (Node.js +  │
+│ Express on Render)  │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ MySQL Database      │
+│ (Aiven Cloud)       │
+└─────────────────────┘
 ---
 
 ## 📂 Project Structure
@@ -163,6 +185,18 @@ http://localhost:5000/api/hospitals
 
 ---
 
+## 📚 Key Learnings
+
+- Full-stack web application development
+- REST API design and implementation
+- Cloud deployment using Netlify and Render
+- Database connectivity and management with MySQL
+- Git and GitHub version control workflows
+- Frontend-backend integration
+- Debugging deployment and production issues
+
+---
+
 ## 👩‍💻 Author
 
 **Vanshika Mishra**
@@ -173,7 +207,12 @@ Pranveer Singh Institute of Technology (PSIT)
 
 ---
 
+## 📄 License
+
+This project is developed for educational and learning purposes.
 ## 📌 Project Status
+
+---
 
 🟢 Active Development
 
