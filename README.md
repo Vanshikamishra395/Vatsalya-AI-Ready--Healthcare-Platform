@@ -1,4 +1,4 @@
-# 🏥 Vatsalya – 🤖 AI-ready healthcare assistance platform
+# 🏥 Vatsalya – AI-ready healthcare assistance platform
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Express](https://img.shields.io/badge/Express.js-API-black)
