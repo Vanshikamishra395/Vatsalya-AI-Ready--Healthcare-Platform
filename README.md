@@ -204,9 +204,10 @@ Pranveer Singh Institute of Technology (PSIT)
 ## 📄 License
 
 This project is developed for educational and learning purposes.
-## 📌 Project Status
 
 ---
+
+## 📌 Project Status
 
 🟢 Active Development
 
